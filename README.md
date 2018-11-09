@@ -1,7 +1,7 @@
 ## aframe-react-boilerplate
 This is a remake of https://github.com/ngokevin/aframe-react-boilerplate
 
-created starting from create-react-app and updated aframe.
+created with React 16.4.1 starting from create-react-app.
 
 ### Installation
 
